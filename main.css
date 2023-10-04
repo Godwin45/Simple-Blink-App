@@ -1,0 +1,212 @@
+body {
+    background-color: #111;
+    color: #fff;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #222;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 24px;
+}
+
+nav {
+    text-align: center;
+    margin-top: 20px;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 20px;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+section {
+    padding: 20px;
+}
+
+/* Define styles for home, daily, and weekly sections */
+#home {
+    background-color: #333;
+}
+
+#daily {
+    background-color: #444;
+}
+
+#weekly {
+    background-color: #555;
+}
+
+body {
+    background-color: #111;
+    color: #fff;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #222;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 24px;
+}
+
+nav {
+    text-align: center;
+    margin-top: 20px;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 20px;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+section {
+    padding: 20px;
+}
+
+/* Define styles for clickable sections */
+.clickable-section {
+    position: relative;
+    display: block;
+    padding: 20px;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+}
+
+.clickable-section:hover {
+    background-color: #555;
+}
+
+.section-title {
+    margin: 0;
+    font-size: 24px;
+}
+
+.section-text {
+    margin-top: 10px;
+    font-size: 16px;
+}
+
+/* Define styles for links in clickable sections */
+.clickable-section a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.clickable-section a:hover {
+    text-decoration: underline;
+}
+
+body {
+    background-color: #111;
+    color: #fff;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #222;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 24px;
+}
+
+nav {
+    text-align: center;
+    margin-top: 20px;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 20px;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+section {
+    padding: 20px; /* Default padding for sections in index.html */
+}
+
+/* Define styles for clickable sections in index.html */
+.clickable-section {
+    position: relative;
+    display: block;
+    padding: 40px; /* Increase the padding to make sections larger in index.html */
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+    cursor: pointer;
+    border: 1px solid transparent; /* Add border for reactive effect in index.html */
+}
+
+.clickable-section:hover {
+    background-color: #555;
+    border: 1px solid #fff; /* Change the border color on hover in index.html */
+}
+
+.clickable-section h2 {
+    margin: 0;
+    font-size: 24px; 
+    color: #fff;/* Increase the font size for section titles in index.html */
+}
+
+.clickable-section p {
+    margin-top: 10px;
+    font-size: 16px;
+    color: #fff; /* Increase the font size for section text in index.html */
+}
+
+/* Define styles for links in clickable sections in index.html */
+.clickable-section a {
+    color: #fff;
+    text-decoration: underline;
+}
+
+.clickable-section a:hover {
+    text-decoration: none;
+}
